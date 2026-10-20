@@ -1,0 +1,24 @@
+---
+title: "CV Peckre Louise"
+author: "Louise Peckre"
+date: "2026-10-18"
+format: html
+bibliography: Mes_publications.bib
+csl: behavioral-ecology-and-sociobiology.csl
+nocite: '@*'
+---
+# Formation
+Ecole ingénieur
+Master d'éyhologie
+
+# Expérience
+MCF, USPN, LEEC
+Enseignante
+
+# Publications
+
+::: {#refs}
+:::
+
+# Autres activités
+Reviewer
